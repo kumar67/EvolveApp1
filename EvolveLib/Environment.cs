@@ -33,7 +33,7 @@ namespace EvolveLib
             //{
             //    tcpClient.Close();
             //}
-            Console.WriteLine("End2.");
+            Console.WriteLine("End2.33");
             Console.ReadKey();
         }
     }
