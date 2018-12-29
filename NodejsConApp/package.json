@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-con-app",
+  "version": "0.0.0",
+  "description": "NodejsConApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  }
+}
